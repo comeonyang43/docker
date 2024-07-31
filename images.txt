@@ -1,2 +1,2 @@
-gcr.io/kaniko-project/executor:debug
+rancher/kubectl:v1.23.17
 
