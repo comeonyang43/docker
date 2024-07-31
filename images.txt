@@ -1,3 +1,2 @@
-jenkins/inbound-agent:alpine-jdk17
-##
+gcr.io/kaniko-project/executor:debug
 
