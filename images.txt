@@ -1,4 +1,4 @@
-nginx:latest
+sonatype/nexus3:3.64.0
 
 
 
