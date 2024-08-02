@@ -1,4 +1,5 @@
-busybox:latest
+bitnami/git:2-debian-12
+
 
 
 
