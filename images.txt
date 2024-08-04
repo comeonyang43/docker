@@ -1,4 +1,4 @@
-bitnami/git:2-debian-12
+python:3.12.4-bookworm
 
 
 
