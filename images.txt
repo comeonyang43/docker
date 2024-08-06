@@ -1,1 +1,4 @@
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+eu.gcr.io/neo4j-helm/neo4j:v5.11.0
+docker.io/bitnami/mysql:8.0.32-debian-11-r26
+docker.io/bitnami/kafka:3.6.1-debian-12-r12
