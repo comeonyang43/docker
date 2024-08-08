@@ -1,9 +1,9 @@
 acryldata/datahub-gms:v0.13.2
-#acryldata/datahub-frontend-react:v0.13.2
-#acryldata/datahub-actions:v0.0.15
-#acryldata/datahub-mae-consumer:v0.13.2
-#acryldata/datahub-mce-consumer:v0.13.2
-#acryldata/datahub-elasticsearch-setup:v0.13.2
-#acryldata/datahub-kafka-setup:v0.13.2
-#acryldata/datahub-mysql-setup:v0.13.2
-#acryldata/datahub-upgrade:v0.13.2
+acryldata/datahub-frontend-react:v0.13.2
+acryldata/datahub-actions:v0.0.15
+acryldata/datahub-mae-consumer:v0.13.2
+acryldata/datahub-mce-consumer:v0.13.2
+acryldata/datahub-elasticsearch-setup:v0.13.2
+acryldata/datahub-kafka-setup:v0.13.2
+acryldata/datahub-mysql-setup:v0.13.2
+acryldata/datahub-upgrade:v0.13.2
