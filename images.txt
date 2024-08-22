@@ -1,1 +1,1 @@
-alpine
+hub.zentao.net/app/zentao:18.7
