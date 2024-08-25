@@ -1,1 +1,1 @@
-easzlab/kubeasz-ext-bin:1.7.1
+library/registry:2
