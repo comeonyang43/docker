@@ -1,1 +1,1 @@
-mariadb:10.6
+ealen/echo-server:latest
