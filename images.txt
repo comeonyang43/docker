@@ -1,1 +1,1 @@
-rancher/shell:v0.1.22
+rancher/rancher-webhook:v0.4.2
