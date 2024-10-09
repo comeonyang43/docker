@@ -1,1 +1,1 @@
-openjdk:21-bookworm
+emqx:5.8.0
