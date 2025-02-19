@@ -1,3 +1,5 @@
-bitnami/kubectl:1.28.12
+maven:3.6.3-openjdk-8
+maven:3.6.3-jdk-11
+maven:3.6.3-openjdk-17
 
 
