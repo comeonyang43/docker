@@ -1,2 +1,2 @@
-mysql:8.0.31-debian
+openjdk:17-buster
 
