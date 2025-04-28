@@ -1,1 +1,1 @@
-node:18.20.8-bullseye
+ jenkins/jenkins:2.507-jdk21
