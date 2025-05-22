@@ -1,1 +1,1 @@
- jenkins/jenkins:2.507-jdk21
+cr.fluentbit.io/fluent/fluent-bit:2.0
