@@ -1,1 +1,1 @@
-docker.elastic.co/beats/filebeat:8.17.0
+python:3.8.20-bullseye
