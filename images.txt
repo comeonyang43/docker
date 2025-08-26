@@ -1,1 +1,1 @@
-ltbproject/self-service-password:latest
+sonatype/nexus:2.15.2-03
