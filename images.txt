@@ -1,2 +1,1 @@
-ltbproject/self-service-password:1.7.3
-
+ltbproject/self-service-password:alpine-1.7.3
