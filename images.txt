@@ -1,1 +1,1 @@
-cr.fluentbit.io/fluent/fluent-bit
+ghcr.io/jimmidyson/configmap-reload
