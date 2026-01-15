@@ -1,1 +1,1 @@
-ghcr.io/jimmidyson/configmap-reload
+flowable/flowable-ui:6.5.0
