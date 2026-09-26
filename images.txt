@@ -1,2 +1,2 @@
-quay.io/ceph/ceph:v18.2.4
+semitechnologies/weaviate:1.39.2
 
